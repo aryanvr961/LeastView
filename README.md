@@ -25,9 +25,26 @@
 
 ---
 
-**LeastView opens PDF, Word, Excel and PowerPoint files in one small app**, with the dark, clean look of Google Drive's viewer. It also edits them, searches inside them, and ships a toolbox for the jobs people usually open three other apps for: **merge, split and shrink**.
+**LeastView opens PDF, Word, Excel and PowerPoint files in one small app**, with the clean look of Google Drive's viewer. It also edits them, searches inside them, and ships a toolbox for the jobs people usually open three other apps for: **merge, split and shrink**.
 
 Everything runs on the phone. The app declares **no internet permission**, so a document never leaves the device.
+
+## 📸 Screenshots
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><img src="docs/screenshots/home.jpg" alt="Home with search and type filters"><br><sub><b>Home</b><br>search and filters</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/home-ppt-filter.jpg" alt="Home filtered to PowerPoint files"><br><sub><b>PowerPoint</b><br>filter by type</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/home-xls-filter.jpg" alt="Home filtered to Excel files"><br><sub><b>Excel</b><br>grouped by date</sub></td>
+    <td align="center" width="25%"><img src="docs/screenshots/menu.jpg" alt="Navigation drawer"><br><sub><b>Menu</b><br>Home · Resizer · Mergers · Splitter · About</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/resizer.jpg" alt="Resizer"><br><sub><b>Resizer</b></sub></td>
+    <td align="center"><img src="docs/screenshots/resizer-settings.jpg" alt="Resizer image settings"><br><sub><b>Resize settings</b><br>size, quality, format</sub></td>
+    <td align="center"><img src="docs/screenshots/mergers.jpg" alt="Mergers with reorder controls"><br><sub><b>Mergers</b><br>reorder, remove, merge</sub></td>
+    <td align="center"><img src="docs/screenshots/splitter.jpg" alt="Splitter modes"><br><sub><b>Splitter</b><br>ranges, extract, every page</sub></td>
+  </tr>
+</table>
 
 ## ✨ Features
 
@@ -71,7 +88,7 @@ Choose files from a **Recent files** sheet (newest first, with previews and sear
 
 ### 🎨 Feels right
 
-Dark Drive-style theme · hamburger drawer · Drive-style **page scroller** with a "4–5/14" pill · pinch zoom that follows your fingers · Android 15-ready edge-to-edge UI.
+Light and dark themes that follow your phone · hamburger drawer · Drive-style **page scroller** with a "4–5/14" pill · pinch zoom that follows your fingers · Android 15-ready edge-to-edge UI.
 
 ## 🧠 How it works
 

@@ -162,8 +162,8 @@ Bug reports and ideas are welcome: open an [issue](https://github.com/aryanvr961
 
 ## 💙 Support
 
-If LeastView saves you time, you can support development over UPI: **`harshh040707@ybl`** (the QR is in the app under *About*).
+If LeastView saves you time, you can support development over UPI: **`aryanvr961@ybl`** (the QR is in the app under *About*).
 
 ## 👤 Credits
 
-Developed by **Harsh Pal**. Thanks to the authors of PdfBox-Android and the AndroidX / Compose teams, and to the open-source document apps whose architecture (format → model → layout → render) inspired the design.
+Developed by **Aryan Verma**. Thanks to the authors of PdfBox-Android and the AndroidX / Compose teams, and to the open-source document apps whose architecture (format → model → layout → render) inspired the design.

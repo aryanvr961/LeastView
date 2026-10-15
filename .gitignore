@@ -1,0 +1,19 @@
+# Gradle / Kotlin
+.gradle/
+.kotlin/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Machine-specific
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+
+# Built packages belong on the Releases page, not in the repository
+*.apk
+*.aab
+
+# Local logs and scratch
+*.log
